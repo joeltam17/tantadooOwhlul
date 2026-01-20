@@ -1,0 +1,39 @@
+
+1. Create a programthat will swap the values of two numbers using only two variables.
+Example
+FirstInput: 5
+Second Input 8
+Output
+FirstInput: 8
+Second Input 5
+
+
+
+
+
+
+
+
+
+2. Create a program that will check which among the three numbers is the largest.
+FirstNumber: 1
+Second Number: 2
+Third Number: 3
+Output: The largest numberis 3
+
+
+
+
+
+
+
+
+
+3. Create a program that will check is a word is a palindrome or not
+Note: Palindromemeans if you reverse the word is the same, consider as well if it is an uppercaseor
+lowercase
+Example:
+Firstinput: racecar
+Output racecar is a palindrome
+Secondinput: Racecar
+Output: Racecaris not a palindrome
